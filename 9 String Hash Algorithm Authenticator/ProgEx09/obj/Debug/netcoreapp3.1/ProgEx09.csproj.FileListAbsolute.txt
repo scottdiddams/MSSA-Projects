@@ -1,0 +1,13 @@
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.exe
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.deps.json
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.runtimeconfig.json
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.runtimeconfig.dev.json
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\bin\Debug\netcoreapp3.1\ProgEx09.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.csprojAssemblyReference.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.AssemblyInfoInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.AssemblyInfo.cs
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Exercises\ProgEx09\ProgEx09\obj\Debug\netcoreapp3.1\ProgEx09.genruntimeconfig.cache

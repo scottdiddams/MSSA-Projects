@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.exe
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.deps.json
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.runtimeconfig.json
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.dll
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\bin\Debug\netcoreapp3.1\CSEx11.pdb
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.dll
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.pdb
+C:\Users\ASUS\source\repos\CSEx11\CSEx11\obj\Debug\netcoreapp3.1\CSEx11.genruntimeconfig.cache

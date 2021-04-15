@@ -1,0 +1,13 @@
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.exe
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.deps.json
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.runtimeconfig.json
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.runtimeconfig.dev.json
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.dll
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\bin\Debug\netcoreapp3.1\C3Ex04.pdb
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.csprojAssemblyReference.cache
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.AssemblyInfoInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.AssemblyInfo.cs
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.dll
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.pdb
+C:\Users\ASUS\MSSA2021\ISTA220\Exercises\C3Ex04\C3Ex04\obj\Debug\netcoreapp3.1\C3Ex04.genruntimeconfig.cache

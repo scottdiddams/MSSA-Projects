@@ -1,0 +1,13 @@
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.exe
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.deps.json
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.runtimeconfig.json
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.runtimeconfig.dev.json
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.dll
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\bin\Debug\netcoreapp3.1\ProgEx08.pdb
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.csprojAssemblyReference.cache
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.AssemblyInfoInputs.cache
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.AssemblyInfo.cs
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.csproj.CoreCompileInputs.cache
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.dll
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.pdb
+C:\Users\Angie\source\repos\ProgEx08\ProgEx08\obj\Debug\netcoreapp3.1\ProgEx08.genruntimeconfig.cache
